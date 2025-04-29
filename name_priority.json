@@ -1,0 +1,6 @@
+[
+  { "username": "journalist1", "priority": 1 },
+  { "username": "journalist2", "priority": 2 },
+  { "username": "journalist3", "priority": 3 }
+  // ... up to 15 accounts
+]
